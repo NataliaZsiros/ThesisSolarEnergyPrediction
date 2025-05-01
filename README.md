@@ -2,3 +2,6 @@
 Thesis topic: Improving Solar Energy Forecasting for Prosumers in Estonia
 
 Prosumers, households and businesses that produce and also consumer energy, contribute largely to energy imbalance, when the energy expected to be used doesn't line up with the actual energy used or produced. In order to tackle this, machine learning has been explored as a solution to improve forecasting of solar energy production. However, in majority of cases, the solution aims to only improve accuracy, and does not consider the complexity and speed of the model. In my thesis, I did a comparative analysis of five machine learning models with differing complexities and proposed two methods for combining the accuracy metrics and speed metrics into one value that balances the two. These methods are a ranking system and the harmonic mean of accuracy and speed. The models were trained on solar energy production data.
+
+The data could not be uploaded to GitHub due to size constraints. It can be downloaded here:
+https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data
